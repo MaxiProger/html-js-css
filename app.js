@@ -1,5 +1,7 @@
 'use strict';
 
+console.log('начало загрузки скрипта');
+
 let li_load = document.querySelector('#load');
 let li_clear = document.querySelector('#clear');
 
